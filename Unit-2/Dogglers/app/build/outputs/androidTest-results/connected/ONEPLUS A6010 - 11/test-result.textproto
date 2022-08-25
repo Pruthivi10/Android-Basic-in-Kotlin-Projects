@@ -1,0 +1,68 @@
+# 2022-07-11T09:33:42.030Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_first_position"
+    start_time {
+      seconds: 1657532019
+      nanos: 505000000
+    }
+    end_time {
+      seconds: 1657532020
+      nanos: 524000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\ONEPLUS A6010 - 11\\logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\ONEPLUS A6010 - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\ONEPLUS A6010 - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\ONEPLUS A6010 - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\DELL\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app-main\\app\\build\\outputs\\androidTest-results\\connected\\ONEPLUS A6010 - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

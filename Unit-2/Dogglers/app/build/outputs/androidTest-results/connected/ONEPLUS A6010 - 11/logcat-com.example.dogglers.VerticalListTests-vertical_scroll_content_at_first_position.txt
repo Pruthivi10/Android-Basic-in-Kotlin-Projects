@@ -1,0 +1,379 @@
+07-11 15:03:38.049 14795 14819 I TestRunner: started: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
+07-11 15:03:38.051 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.059 14795 14819 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-11 15:03:38.069 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.075 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.075  1570  5324 E ANDR-PERF-JNI: com_qualcomm_qtiperformance_native_perf_io_prefetch_start
+07-11 15:03:38.075 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.076 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.080  1570  5324 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+07-11 15:03:38.082 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.084 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 5 lines
+07-11 15:03:38.084 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.084 10501 10501 D Launcher: onPause# hashcode: 202080623
+07-11 15:03:38.084 10501 10501 I ShelfLauncherCallbacks: onPause
+07-11 15:03:38.085 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.085  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.088 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.089 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.095  1570  1727 E system_server: Invalid ID 0x00000000.
+07-11 15:03:38.097  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.097 26102 26102 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+07-11 15:03:38.097 26102 26102 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+07-11 15:03:38.099 14795 14795 E xample.doggler: [frame_perf] perfboost open tb_ctl file failed, isApp[1], errno=No such file or directory
+07-11 15:03:38.100 14795 14795 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+07-11 15:03:38.100  1570  1744 D MyBatteryStatsHelper: ===processSingleAppUsage===
+07-11 15:03:38.100  1570  1744 D MyBatteryStatsHelper: ===processSingleAppUsage===
+07-11 15:03:38.101  1107  1155 W DisplayIdentification: Invalid EDID: falling back to serial number due to missing display name.
+07-11 15:03:38.101  1107  1155 W DisplayIdentification: Invalid EDID: falling back to ASCII text due to missing serial number.
+07-11 15:03:38.103  1570  1727 D OPFD_CTRL_SVC: [2]handle Starting Window for { com.example.dogglers }, Dark? false
+07-11 15:03:38.106  1040  1071 E ANDR-IOP: io prefetch is disabled
+07-11 15:03:38.108 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.109 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.111 10501 10561 D OPSearchPlus: hidden_apps -- SPVirtualDB -- content://net.oneplus.launcher.IconProvider/label
+07-11 15:03:38.114 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: PRE_ON_CREATE
+07-11 15:03:38.114 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.121  2432  2432 D LightBarController:  updateStatus numStacks=1
+07-11 15:03:38.123 10501 10501 D ViewRootImpl[Launcher]: windowFocusChanged hasFocus=false inTouchMode=true
+07-11 15:03:38.135 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.138 14795 14795 E xample.doggler: Invalid ID 0x00000000.
+07-11 15:03:38.140 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: CREATED
+07-11 15:03:38.141 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.144 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: STARTED
+07-11 15:03:38.144 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.144 10501 10501 D Launcher: onWindowFocusChanged# hasFocus: false
+07-11 15:03:38.145 10501 10501 D OPSearchPlus: lifecycle -- SearchPlusView -- Window Focus = false
+07-11 15:03:38.146 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.146 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.147 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.148 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.152  1570  5301 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+07-11 15:03:38.154 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: RESUMED
+07-11 15:03:38.155 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.157 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: PAUSED
+07-11 15:03:38.158 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.159  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.165 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.167  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.167 10501 10501 D Launcher: onStop# hashcode: 202080623
+07-11 15:03:38.167 10501 10501 I ShelfLauncherCallbacks: onStop
+07-11 15:03:38.167 10501 10501 D LauncherAppWidgetHost: setListenIfResumed# listenIfResumed: false, flag: 4
+07-11 15:03:38.168 10501 10501 D LauncherAppWidgetHost: stopListening# flag: 0
+07-11 15:03:38.168 10501 10501 D Launcher: onTrimMemory# level: 20
+07-11 15:03:38.170 10501 10501 D Launcher: onSaveInstanceState# hashcode: 202080623
+07-11 15:03:38.173 10501 10501 I ShelfLauncherCallbacks: onSaveInstanceState
+07-11 15:03:38.179 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.180 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.182 10501 10501 D Launcher: onTrimCachedBitmaps# state: ALL_APPS, trim: false
+07-11 15:03:38.193 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.194 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.208 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.209 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: PRE_ON_CREATE
+07-11 15:03:38.210 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-11 15:03:38.222 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.240 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 2 lines
+07-11 15:03:38.241 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.247 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.250 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 3 lines
+07-11 15:03:38.251 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.252 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.253 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.254 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.260 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.261 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 3 lines
+07-11 15:03:38.261 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.262 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.265  2432  2432 D EdgeBackGestureHandler: updateTopPackage isHomeApp false
+07-11 15:03:38.269 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.271 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.284 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 2 lines
+07-11 15:03:38.285 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.291 14795 14795 W xample.doggler: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+07-11 15:03:38.291 14795 14795 W xample.doggler: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+07-11 15:03:38.306 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: CREATED
+07-11 15:03:38.306 14795 14795 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@ded33d6
+07-11 15:03:38.308 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: STARTED
+07-11 15:03:38.309 14795 14795 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@ded33d6
+07-11 15:03:38.310 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: RESUMED
+07-11 15:03:38.310 14795 14795 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@ded33d6
+07-11 15:03:38.318 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.319 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.320 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.321 14795 14795 V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+07-11 15:03:38.326 14795 14819 D EventInjectionStrategy: Creating injection strategy with input manager.
+07-11 15:03:38.326 14795 14819 W xample.doggler: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+07-11 15:03:38.326 14795 14819 W xample.doggler: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+07-11 15:03:38.326 14795 14819 W xample.doggler: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+07-11 15:03:38.331 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.331 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.331 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.332 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.339 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.339 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.340 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.341 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: QUALCOMM build                   : 8e5405b, I57aaec3440
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Build Date                       : 05/21/21
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: OpenGL ES Shader Compiler Version: EV031.32.02.10
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Local Branch                     : mybranchebba1dbe-451b-f160-ac81-1458d0b52ae8
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Remote Branch                    : quic/gfx-adreno.lnx.1.0.r135-rel
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Remote Branch                    : NONE
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Reconstruct Branch               : NOTHING
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Build Config                     : S P 10.0.7 AArch64
+07-11 15:03:38.344 14795 14832 I AdrenoGLES-0: Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+07-11 15:03:38.348 14795 14832 I AdrenoGLES-0: PFP: 0x016ee190, ME: 0x00000000
+07-11 15:03:38.360 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.360 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.367 14795 14795 E xample.doggler: Invalid ID 0x00000000.
+07-11 15:03:38.372 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.373 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 2 lines
+07-11 15:03:38.373 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.374 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.375 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.392 22477 14841 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.392 22477 22477 D com.oneplus.opwlb.WlbApplication: package change receiver:android.intent.action.PACKAGE_ADDED
+07-11 15:03:38.421 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.474 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 6 lines
+07-11 15:03:38.474 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.479   605   605 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+07-11 15:03:38.479 14795 14832 I Gralloc4: mapper 4.x is not supported
+07-11 15:03:38.479   605   605 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@3.0::IMapper/default in either framework or device manifest.
+07-11 15:03:38.479 14795 14832 W Gralloc3: mapper 3.x is not supported
+07-11 15:03:38.482 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.483 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.532 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 6 lines
+07-11 15:03:38.533 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.540 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.540 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.541 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.542 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.542 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.547 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.556 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 65 lines
+07-11 15:03:38.556 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.557 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.558 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.559  1107  1155 E surfaceflinger: [frame_perf] AutoTurboBoostQuery fd<0 failed, errno=Inappropriate ioctl for device
+07-11 15:03:38.559  1107  1155 E surfaceflinger: [frame_perf] AutoBoostConfigQuery fd<0 failed, errno=No such file or directory
+07-11 15:03:38.563  1570  1744 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.dogglers/1/com.example.dogglers.VerticalListActivity/compiled_traces/compiled_trace.pb doesn't exist
+07-11 15:03:38.564 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.564 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.564 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.564  1570  1850 I ===> HoustonPackage: addLaunchTimeInfo: for com.example.dogglers/.VerticalListActivity isCold:true launchTime:493
+07-11 15:03:38.564 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.565 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.565  1570  1744 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +493ms
+07-11 15:03:38.565 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.573 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 60 lines
+07-11 15:03:38.573 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.575 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.579 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 4 lines
+07-11 15:03:38.579 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.579 14795 14795 D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@ae6c73d[VerticalListActivity]
+07-11 15:03:38.580 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.580 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.581 14795 14795 D ViewRootImpl[VerticalListActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+07-11 15:03:38.581 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.583  2432  2432 D PhoneStatusBarView: getCompatMode: mode:0 ops:3
+07-11 15:03:38.584  2432  2432 I PhoneStatusBarView: isFullAndNotchEnabled() isFullMode=false pkg=com.example.dogglers isCameraNotchIgnoreSetting=false, uid=10979
+07-11 15:03:38.587 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.587  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.587  2432  2432 I chatty  : uid=10011(com.android.systemui) identical 1 line
+07-11 15:03:38.587  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.589 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.595 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 4 lines
+07-11 15:03:38.596 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.596  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3210
+07-11 15:03:38.596 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.597  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2099 checkRepeatedly = false, unlocked = true
+07-11 15:03:38.597  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1907 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 15:03:38.597  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2099 checkRepeatedly = true, unlocked = true
+07-11 15:03:38.597 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.598 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.599 14795 14795 W xample.doggler: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+07-11 15:03:38.599 14795 14795 W xample.doggler: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+07-11 15:03:38.599 14795 14795 W xample.doggler: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+07-11 15:03:38.600 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: STOPPED
+07-11 15:03:38.600 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.603 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.604  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.604  2432  2432 I chatty  : uid=10011(com.android.systemui) identical 1 line
+07-11 15:03:38.604  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.605 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.609 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 5 lines
+07-11 15:03:38.610 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.611 14795 14795 W xample.doggler: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+07-11 15:03:38.611 14795 14795 W xample.doggler: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+07-11 15:03:38.611 14795 14795 W xample.doggler: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+07-11 15:03:38.615 14795 14795 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Tzeitel"
+07-11 15:03:38.616 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.617 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.617 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.617 14795 14795 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Age: 7"
+07-11 15:03:38.619 14795 14795 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Hobbies: sunbathing"
+07-11 15:03:38.621  1107  8252 E surfaceflinger: [frame_perf] perfboost open boost file failed
+07-11 15:03:38.624 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.633 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 35 lines
+07-11 15:03:38.633 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.635 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.638  1107  8252 E surfaceflinger: [frame_perf] perfboost open boost file failed
+07-11 15:03:38.657 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.732 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 5 lines
+07-11 15:03:38.733 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.741 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.746 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 32 lines
+07-11 15:03:38.746 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.747 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.820 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 5 lines
+07-11 15:03:38.820 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.825 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.833 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 65 lines
+07-11 15:03:38.833 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.834 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.836 14795 14795 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165345
+07-11 15:03:38.839  1107  1156 E surfaceflinger: [frame_perf] perfboost open boost file failed
+07-11 15:03:38.847  1570  5301 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+07-11 15:03:38.851 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: PAUSED
+07-11 15:03:38.851 14795 14795 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@ded33d6
+07-11 15:03:38.851  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.851  1570  1744 D MyBatteryStatsHelper: ===processSingleAppUsage===
+07-11 15:03:38.852 15860 22504 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+07-11 15:03:38.852 15860 22504 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+07-11 15:03:38.853 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.853 15860 22504 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+07-11 15:03:38.854 15860 14725 E sqlite3_android: [IKR-38846] ONEPLUS_NAME_PARTS_MATCH SQLITE_OK
+07-11 15:03:38.854 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.856  1107  8252 E surfaceflinger: [frame_perf] perfboost open boost file failed
+07-11 15:03:38.859 15860 22504 I FontLog : Pulling font file for id = 321, cache size = 4 [CONTEXT service_id=132 ]
+07-11 15:03:38.860  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.860 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.863 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 22 lines
+07-11 15:03:38.863 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.863 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: PRE_ON_CREATE
+07-11 15:03:38.863 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.864 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 2 lines
+07-11 15:03:38.864 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.864 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:38.864 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.865 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 9 lines
+07-11 15:03:38.865 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.865 15860 22504 I FontLog : Pulling font file for id = 321, cache size = 4 [CONTEXT service_id=132 ]
+07-11 15:03:38.865 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.869 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 26 lines
+07-11 15:03:38.870 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.871 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.873  1107  8252 E surfaceflinger: [frame_perf] perfboost open boost file failed
+07-11 15:03:38.875 14795 14795 E xample.doggler: Invalid ID 0x00000000.
+07-11 15:03:38.877 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: CREATED
+07-11 15:03:38.877 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:38.879 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: STARTED
+07-11 15:03:38.880 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.880 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:38.880 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.882 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 15 lines
+07-11 15:03:38.882 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.882 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: RESUMED
+07-11 15:03:38.882 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.882 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.882 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.882 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:38.882 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.887 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 42 lines
+07-11 15:03:38.887 22477 22477 E m.oneplus.opwl: Invalid ID 0x00000000.
+07-11 15:03:38.888 14795 14795 V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+07-11 15:03:38.890  1107  8252 E surfaceflinger: [frame_perf] perfboost open boost file failed
+07-11 15:03:38.894 14795 14795 D ViewRootImpl[VerticalListActivity]: windowFocusChanged hasFocus=false inTouchMode=true
+07-11 15:03:38.894 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.913 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.926 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.929  1107  1156 E surfaceflinger: [frame_perf] AutoTurboBoostQuery fd<0 failed, errno=Inappropriate ioctl for device
+07-11 15:03:38.929  1107  1156 E surfaceflinger: [frame_perf] AutoBoostConfigQuery fd<0 failed, errno=No such file or directory
+07-11 15:03:38.933  1570  1850 I ===> HoustonPackage: addLaunchTimeInfo: for com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity isCold:false launchTime:90
+07-11 15:03:38.933  1570  1744 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +90ms
+07-11 15:03:38.940 14795 14795 D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@39c83a9[InstrumentationActivityInvoker$EmptyActivity]
+07-11 15:03:38.941 14795 14795 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+07-11 15:03:38.947 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.948 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.950 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.950  1570  2450 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+07-11 15:03:38.951 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.951 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:38.952 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.954  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.954  2432  2432 I chatty  : uid=10011(com.android.systemui) identical 1 line
+07-11 15:03:38.954  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.965 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: STOPPED
+07-11 15:03:38.966 14795 14795 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@ded33d6
+07-11 15:03:38.968 14795 14795 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@ded33d6 in: DESTROYED
+07-11 15:03:38.968 14795 14795 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-11 15:03:38.971  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.971  2432  2432 I chatty  : uid=10011(com.android.systemui) identical 1 line
+07-11 15:03:38.971  2432  2432 D KeyButtonRipple:  draw SupportHardware=true Type=ROUNDED_RECT
+07-11 15:03:38.977 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.981  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3210
+07-11 15:03:38.981 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: PAUSED
+07-11 15:03:38.982 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:38.982  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2099 checkRepeatedly = false, unlocked = true
+07-11 15:03:38.982  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1907 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 15:03:38.983  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.983  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2099 checkRepeatedly = true, unlocked = true
+07-11 15:03:38.990 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567 in: DESTROYED
+07-11 15:03:38.990  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:38.990 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@1376567
+07-11 15:03:38.992 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.995 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 3 lines
+07-11 15:03:38.995 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.996 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb in: PRE_ON_CREATE
+07-11 15:03:38.996 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:38.996 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb
+07-11 15:03:38.996 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.002 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 9 lines
+07-11 15:03:39.002 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.003 14795 14795 E xample.doggler: Invalid ID 0x00000000.
+07-11 15:03:39.003 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.003 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.004 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb in: CREATED
+07-11 15:03:39.005 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb
+07-11 15:03:39.005 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.006 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:39.007 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.007 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb in: STARTED
+07-11 15:03:39.007 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb
+07-11 15:03:39.008 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.008 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 1 line
+07-11 15:03:39.009 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.009 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb in: RESUMED
+07-11 15:03:39.009 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb
+07-11 15:03:39.010 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.013 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 6 lines
+07-11 15:03:39.014 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.014 14795 14795 V ViewRootImpl: The specified message queue synchronization  barrier token has not been posted or has already been removed
+07-11 15:03:39.014 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.017 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 5 lines
+07-11 15:03:39.018 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.018 14795 14795 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=false inTouchMode=true
+07-11 15:03:39.018 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.024 22477 22477 I chatty  : uid=10114(com.oneplus.opwlb) identical 12 lines
+07-11 15:03:39.025 22477 22477 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.028 22477 14851 V IconPackHelper: Don't need to load same iconpack
+07-11 15:03:39.033  1107  1156 E surfaceflinger: [frame_perf] AutoTurboBoostQuery fd<0 failed, errno=No such file or directory
+07-11 15:03:39.033  1107  1156 E surfaceflinger: [frame_perf] AutoBoostConfigQuery fd<0 failed, errno=No such file or directory
+07-11 15:03:39.038  1570  1744 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +92ms
+07-11 15:03:39.038  1570  1850 I ===> HoustonPackage: addLaunchTimeInfo: for com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity isCold:false launchTime:92
+07-11 15:03:39.059 14795 14795 D DecorView: onWindowFocusChangedFromViewRoot hasFocus: true, DecorView@363cdde[InstrumentationActivityInvoker$EmptyActivity]
+07-11 15:03:39.060 14795 14795 D ViewRootImpl[InstrumentationActivityInvoker$EmptyActivity]: windowFocusChanged hasFocus=true inTouchMode=true
+07-11 15:03:39.068  1570  5308 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+07-11 15:03:39.073 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: STOPPED
+07-11 15:03:39.074 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:39.074  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3210
+07-11 15:03:39.075  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2099 checkRepeatedly = false, unlocked = true
+07-11 15:03:39.075  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1907 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+07-11 15:03:39.075  4354  4354 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2099 checkRepeatedly = true, unlocked = true
+07-11 15:03:39.075 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4 in: DESTROYED
+07-11 15:03:39.076 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@3fcf6c4
+07-11 15:03:39.081 14795 14795 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb in: PAUSED
+07-11 15:03:39.082 14795 14795 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6559aeb
+07-11 15:03:39.083  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:39.094  1570  1726 D OpPowerConsumpStatsInjector: notifyPkgEvent
+07-11 15:03:39.094  1570  2325 D skia    : got procName system_server for pid 1570
+07-11 15:03:39.096 14795 14819 I TestRunner: finished: vertical_scroll_content_at_first_position(com.example.dogglers.VerticalListTests)
